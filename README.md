@@ -13,4 +13,4 @@
        Tailwind CSS is implemented.
 
 # VISIT SITE FOR BETTER EXPERIENCE : 
-[Apple iPhone 15 Pro](https://apple-website-orcin.vercel.app/)
+[Apple iPhone 15 Pro](https://apple-ashishkr27.netlify.app/)
